@@ -1,0 +1,4 @@
+# Zensical's build output (GitHub Actions builds it)
+site/
+.cache/
+
