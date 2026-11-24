@@ -51,6 +51,7 @@ The first public release: a free **Time Limited Preview** that works until 2026-
 ### Help
 
 - **Docs**: the offline help (the docs for your version, served by Steep itself, with search, no internet needed) and a link to the online docs for the latest release.
+- **Contact**: where to ask questions, report problems or security issues, and reach Tea Powered Solutions: GitHub, email and Reddit.
 
 ### Installation and operations
 
